@@ -1,6 +1,6 @@
 # Movie Reviews Sentiment Analysis
 
-Predict marks (positive/negative) for IMDB movie reviews eligibility using Count Vectorizer + an ensemble of MultinomialNB and Random Forest Classifiers
+Predict marks (positive/negative) for IMDB movie reviews using Count Vectorizer + an ensemble of MultinomialNB and Random Forest Classifiers
 
 Dataset taken from [Kaggle](https://www.kaggle.com/competitions/word2vec-nlp-tutorial/overview)
 
